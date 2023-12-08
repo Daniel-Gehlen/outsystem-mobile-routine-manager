@@ -12,7 +12,6 @@ The app development followed a systematic process based on the OutSystems platfo
    - **Data Modeling:** Definition of entities and relationships needed to support the app's functionalities.
    - **Logic Development:** Implementation of business logic using OutSystems' visual language.
    - **UI/UX Design:** Creation of the user interface with the visual editor, ensuring an intuitive user experience.
-   - **Testing:** Conducting unit and integration tests to ensure app quality and robustness.
    - **Deploy and Publication:** Deployment of the app in test and production environments for validation and end-user access.
 
 ## 3. Results:
